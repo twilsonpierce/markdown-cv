@@ -28,8 +28,40 @@ Developed and designed the profile creation feature for users to start their jou
 
 ### EXPERIENCE 
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
 
+### Full-Stack Web Developer 
+
+* Completed a 10-month intensive project-based Full-Stack Web Development program with only a 5% acceptance rate and collaborated with leading developers, designers and project managers from Spotify, Tumblr, Google, LinkedIn, etc. 
+
+### Intern 
+
+* Assisted the the Founder & CEO independently with the operations and procedures to ensure the continued growth of our tech non-profit organization.
+
+* Built and maintain the database in Excel to handle and organize the amount of applications that we received through our tracking system.
+
+* Worked closely with other teams in cross-functional initiatives to help improve the hiring and recruitment process. 
+
+### Technical Mentor 
+
+* Served as a mentor for Colgate’s Code A Brighter Future Hackathon to help young girls build an app that would solve issues within their communities. 
+
+* Guided a team of three in grades 5 and 7 to help them build Off The Screen. A mobile app that motivates teens to spend more time outside and less on their phones. 
+
+* Designed and built the prototype using Sketch and InVision.  
+
+### Blogger 
+
+* Contributed content for a leading organization for black women in technology. VOICE is a platform for highlighting our perspective and a space where all women can connect, learn and develop. Changing The Face Of Technology was written based on my experience as **Twilio’s 2017 SIGNAL Tech Scholar.**
+
+### Technical Lead 
+
+* Participated in a design and technology competition(#DesignForHerSTEM) to increase awareness, participation and funding for girls in STEM programs across the country.
+
+* Collaborated on a team of three as the technical lead to build out an e-commerce website for our product.  My team won an award for Best Innovation and Creativity. 
+
+### Toastmasters International(CC,CL)
+
+* Delivered prepared speeches, mentored new club members in our public speaking and leadership program while serving as the VP of Public Relations. 
 
 ### EDUCATION 
 
