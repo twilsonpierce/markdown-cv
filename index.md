@@ -48,7 +48,7 @@ Developed and designed the profile creation feature for users to start their jou
 
 ### Blogger 
 ##### BTW (Black Tech Women)|May 2017, Novemember 2017
-* Contributed content for a leading organization for black women in technology. VOICE is a platform for highlighting our perspective and a space where all women can connect, learn and develop. <a href="https://medium.com/@BlackTechWomen/changing-the-face-of-technology-highlights-from-signal-333e686e2e98">Changing The Face Of Technology</a>was written based on my experience as **Twilio’s 2017 SIGNAL Tech Scholar.**
+* Contributed content for a leading organization for black women in technology. VOICE is a platform for highlighting our perspective and a space where all women can connect, learn and develop. <a href="https://medium.com/@BlackTechWomen/changing-the-face-of-technology-highlights-from-signal-333e686e2e98">Changing The Face Of Technology</a> was written based on my experience as **Twilio’s 2017 SIGNAL Tech Scholar.**
 
 ### Technical Lead 
 ##### My Social Canvas|October 2016
