@@ -4,7 +4,6 @@
 Passionate.Ambitious.Creative 
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
 | <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
 </div>
 
@@ -12,14 +11,12 @@ Passionate.Ambitious.Creative
 ### PROJECTS 
 
 ### Wanderly - React,Redux,Express,PostgreSQL
-
 * Collaborated on a team of four to develop a traveling web app that allows users to share their itineraries and experiences with other travelers. 
 
 * Troubleshooted the behavior of the uploading feature by using Formidable middleware to upload the image files. 
 Developed and designed the profile creation feature for users to start their journeys around Wanderly. The profile assisted users in keeping track of both their expenses and experiences.
 
 ### Hipstore - React,Redux,Css,Html,Bootstrap
-
 * Collaborated on a team of four to develop an e-commerce website that allows users to shop and explore the latest trends in fashion. 
 
 * Developed a data repository to hold the product information to improve the user experience and help control the number of items that were displayed on the category page. 
@@ -30,19 +27,19 @@ Developed and designed the profile creation feature for users to start their jou
 
 
 ### Full-Stack Web Developer 
-
+##### C4Q(Coalition for Queens)|July 2016- June 2017
 * Completed a 10-month intensive project-based Full-Stack Web Development program with only a 5% acceptance rate and collaborated with leading developers, designers and project managers from Spotify, Tumblr, Google, LinkedIn, etc. 
 
-### Intern 
-
+### Intern
+##### C4Q(Coalition for Queens)|January 2017- August 2017
 * Assisted the the Founder & CEO independently with the operations and procedures to ensure the continued growth of our tech non-profit organization.
 
 * Built and maintain the database in Excel to handle and organize the amount of applications that we received through our tracking system.
 
 * Worked closely with other teams in cross-functional initiatives to help improve the hiring and recruitment process. 
 
-### Technical Mentor 
-
+### Technical Mentor  
+##### BGC(Black Girls Code)|April 2017
 * Served as a mentor for Colgate’s Code A Brighter Future Hackathon to help young girls build an app that would solve issues within their communities. 
 
 * Guided a team of three in grades 5 and 7 to help them build Off The Screen. A mobile app that motivates teens to spend more time outside and less on their phones. 
@@ -50,17 +47,17 @@ Developed and designed the profile creation feature for users to start their jou
 * Designed and built the prototype using Sketch and InVision.  
 
 ### Blogger 
-
-* Contributed content for a leading organization for black women in technology. VOICE is a platform for highlighting our perspective and a space where all women can connect, learn and develop. Changing The Face Of Technology was written based on my experience as **Twilio’s 2017 SIGNAL Tech Scholar.**
+##### BTW (Black Tech Women)|May 2017, Novemember 2017
+* Contributed content for a leading organization for black women in technology. VOICE is a platform for highlighting our perspective and a space where all women can connect, learn and develop. <a href="https://medium.com/@BlackTechWomen/changing-the-face-of-technology-highlights-from-signal-333e686e2e98">Changing The Face Of Technology</a>was written based on my experience as **Twilio’s 2017 SIGNAL Tech Scholar.**
 
 ### Technical Lead 
-
+##### My Social Canvas|October 2016
 * Participated in a design and technology competition(#DesignForHerSTEM) to increase awareness, participation and funding for girls in STEM programs across the country.
 
 * Collaborated on a team of three as the technical lead to build out an e-commerce website for our product.  My team won an award for Best Innovation and Creativity. 
 
 ### Toastmasters International(CC,CL)
-
+##### Eastside Toastmasters Club|October 2014 - Present 
 * Delivered prepared speeches, mentored new club members in our public speaking and leadership program while serving as the VP of Public Relations. 
 
 ### EDUCATION 
