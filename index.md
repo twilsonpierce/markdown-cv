@@ -1,9 +1,7 @@
+
 ---
-layout: cv
-title: Isaac Newtons's CV
----
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+### Tionna Wilson-Pierce
+Passionate.Ambitious.Creative 
 
 <div id="webaddress">
 <a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
@@ -11,81 +9,62 @@ Physicist, Mathematician, Cambridge professor.
 </div>
 
 
-## Currently
+### PROJECTS 
 
 Standing on the shoulders of giants
 
-### Specialized in
+### EXPERIENCE 
 
 Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
 
 
-### Research interests
+### EDUCATION 
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+__Software Engineering, 
+C4Q(Coalition for Queens),
+Long Island City, NY__
+`2016-2017`
 
-
-## Education
-
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+__Liberal Arts:Math and Science, 
+CUNY LaGuardia Community College,
+Long Island City, NY__
+`2013-2015`
 
 
 
-## Awards
+### SKILLS 
+Javascript
 
-`2012`
-President, *Royal Society*, London, UK
+HTML, CSS,SaSS
 
-Associate, *French Academy of Science*, Paris, France
+React & Redux
 
+Express, Node.js, MongoDB
 
+PostgresSQL
 
-## Publications
+GIT
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+Webpack, Babel, DOM
 
-### Journals
+Mocha, Chai
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+Bootstrap, Invision,Sketch
 
-`1669`
-Lectiones opticæ.
+Microsoft  Office, Google Docs/Sheets
 
-etc. etc. etc.
+Greenhouse.io, Trello, Slack, MailChimp
 
-### Patents
+Team Leadership/Building
 
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+Project management
 
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+Public Speaking 
 
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+
 
 
