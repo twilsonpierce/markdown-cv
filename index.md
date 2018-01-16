@@ -4,12 +4,12 @@
 
 ### EDUCATION
 
-* __Software Engineering, 
+__Software Engineering, 
 C4Q(Coalition for Queens),
 Long Island City, NY__
 `2016-2017`
 
-* __Liberal Arts:Math and Science, 
+__Liberal Arts:Math and Science, 
 CUNY LaGuardia Community College,
 Long Island City, NY__
 `2013-2015`
