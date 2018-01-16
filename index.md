@@ -1,7 +1,7 @@
 ### TIONNA WILSON-PIERCE
 Passionate.Ambitious.Creative 
 
-### 	__PROJECTS__
+### 	___PROJECTS___
 
 ### Wanderly - React,Redux,Express,PostgreSQL
 * Collaborated on a team of four to develop a traveling web app that allows users to share their itineraries and experiences with other travelers. 
