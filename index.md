@@ -21,11 +21,11 @@ Developed and designed the profile creation feature for users to start their jou
 ### 	EXPERIENCE 
 
 ### Full-Stack Web Developer
-##### C4Q(Coalition for Queens)|July 2016- June 2017 
+##### `C4Q(Coalition for Queens)|July 2016- June 2017` 
 * Completed a 10-month intensive project-based Full-Stack Web Development program with only a 5% acceptance rate and collaborated with leading developers, designers and project managers from Spotify, Tumblr, Google, LinkedIn, etc. 
 
 ### Intern
-##### C4Q(Coalition for Queens)|January 2017- August 2017
+##### `C4Q(Coalition for Queens)|January 2017- August 2017`
 * Assisted the the Founder & CEO independently with the operations and procedures to ensure the continued growth of our tech non-profit organization.
 
 * Built and maintain the database in Excel to handle and organize the amount of applications that we received through our tracking system.
