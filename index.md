@@ -2,19 +2,6 @@
 # Tionna Wilson-Pierce  
 ---
 
-### EDUCATION
-
-* __Software Engineering, 
-C4Q(Coalition for Queens),
-Long Island City, NY__
-`2016-2017`
-
-* __Liberal Arts:Math and Science, 
-CUNY LaGuardia Community College,
-Long Island City, NY__
-`2013-2015`
-
-
 ### SKILLS 
 
 `Javascript`,`HTML`,`CSS`,`SaSS`
@@ -27,7 +14,7 @@ Long Island City, NY__
 `Team Leadership/Building`, `Project management`,`Public Speaking` 
 
 
-### 	III. PROJECTS
+### 	PROJECTS
 
 ### Wanderly - React,Redux,Express,PostgreSQL
 * Collaborated on a team of four to develop a traveling web app that allows users to share their itineraries and experiences with other travelers. 
@@ -77,6 +64,18 @@ Developed and designed the profile creation feature for users to start their jou
 ### Toastmasters International(CC,CL)
 ##### `Eastside Toastmasters Club|October 2014 - Present `
 * Delivered prepared speeches, mentored new club members in our public speaking and leadership program while serving as the VP of Public Relations. 
+
+### EDUCATION
+
+* __Software Engineering, 
+C4Q(Coalition for Queens),
+Long Island City, NY__
+`2016-2017`
+
+* __Liberal Arts:Math and Science, 
+CUNY LaGuardia Community College,
+Long Island City, NY__
+`2013-2015`
 
 
 <!-- ### Footer
