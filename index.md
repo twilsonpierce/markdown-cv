@@ -2,7 +2,7 @@
 # Tionna Wilson-Pierce  
 ---
 
-### I. EDUCATION
+### EDUCATION
 
 * __Software Engineering, 
 C4Q(Coalition for Queens),
@@ -15,7 +15,7 @@ Long Island City, NY__
 `2013-2015`
 
 
-### II. SKILLS 
+### SKILLS 
 
 `Javascript`,`HTML`,`CSS`,`SaSS`
 `React`,`Redux`,`Express`, `Node.js`
@@ -42,7 +42,7 @@ Developed and designed the profile creation feature for users to start their jou
 
 * Featured in C4Q’s Annual Gala and Tech Bash
 
-### 	IV. EXPERIENCE
+###  EXPERIENCE
 
 ### Full-Stack Web Developer
 ##### `C4Q(Coalition for Queens)|July 2016- June 2017` 
