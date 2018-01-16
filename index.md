@@ -3,7 +3,7 @@
 ---
 
 
-### 	PROJECTS
+### 	PROJECTS:
 
 ### Wanderly - React,Redux,Express,PostgreSQL
 * Collaborated on a team of four to develop a traveling web app that allows users to share their itineraries and experiences with other travelers. 
@@ -18,7 +18,7 @@ Developed and designed the profile creation feature for users to start their jou
 
 * Featured in C4Q’s Annual Gala and Tech Bash
 
-### 	EXPERIENCE 
+### 	EXPERIENCE:
 
 ### Full-Stack Web Developer
 ##### `C4Q(Coalition for Queens)|July 2016- June 2017` 
@@ -33,7 +33,7 @@ Developed and designed the profile creation feature for users to start their jou
 * Worked closely with other teams in cross-functional initiatives to help improve the hiring and recruitment process. 
 
 ### Technical Mentor  
-##### BGC(Black Girls Code)|April 2017
+##### `BGC(Black Girls Code)|April 2017`
 * Served as a mentor for Colgate’s Code A Brighter Future Hackathon to help young girls build an app that would solve issues within their communities. 
 
 * Guided a team of three in grades 5 and 7 to help them build Off The Screen. A mobile app that motivates teens to spend more time outside and less on their phones. 
@@ -41,20 +41,20 @@ Developed and designed the profile creation feature for users to start their jou
 * Designed and built the prototype using Sketch and InVision.  
 
 ### Blogger 
-##### BTW (Black Tech Women)|May 2017, Novemember 2017
+##### `BTW (Black Tech Women)|May 2017, Novemember 2017`
 * Contributed content for a leading organization for black women in technology. VOICE is a platform for highlighting our perspective and a space where all women can connect, learn and develop. <a href="https://medium.com/@BlackTechWomen/changing-the-face-of-technology-highlights-from-signal-333e686e2e98">Changing The Face Of Technology</a> was written based on my experience as **Twilio’s 2017 SIGNAL Tech Scholar.**
 
 ### Technical Lead 
-##### My Social Canvas|October 2016
+##### `My Social Canvas|October 2016`
 * Participated in a design and technology competition(#DesignForHerSTEM) to increase awareness, participation and funding for girls in STEM programs across the country.
 
 * Collaborated on a team of three as the technical lead to build out an e-commerce website for our product.  My team won an award for Best Innovation and Creativity. 
 
 ### Toastmasters International(CC,CL)
-##### Eastside Toastmasters Club|October 2014 - Present 
+##### `Eastside Toastmasters Club|October 2014 - Present `
 * Delivered prepared speeches, mentored new club members in our public speaking and leadership program while serving as the VP of Public Relations. 
 
-### EDUCATION 
+### EDUCATION: 
 
 __Software Engineering, 
 C4Q(Coalition for Queens),
