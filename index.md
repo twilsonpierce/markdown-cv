@@ -1,7 +1,7 @@
-### Tionna Wilson-Pierce
+### TIONNA WILSON-PIERCE
 Passionate.Ambitious.Creative 
 
-### PROJECTS 
+### 	__PROJECTS__
 
 ### Wanderly - React,Redux,Express,PostgreSQL
 * Collaborated on a team of four to develop a traveling web app that allows users to share their itineraries and experiences with other travelers. 
@@ -16,7 +16,7 @@ Developed and designed the profile creation feature for users to start their jou
 
 * Featured in C4Q’s Annual Gala and Tech Bash
 
-### EXPERIENCE 
+### 	__EXPERIENCE__ 
 
 ### Full-Stack Web Developer
 ##### C4Q(Coalition for Queens)|July 2016- June 2017 
@@ -52,7 +52,7 @@ Developed and designed the profile creation feature for users to start their jou
 ##### Eastside Toastmasters Club|October 2014 - Present 
 * Delivered prepared speeches, mentored new club members in our public speaking and leadership program while serving as the VP of Public Relations. 
 
-### EDUCATION 
+### _EDUCATION_ 
 
 __Software Engineering, 
 C4Q(Coalition for Queens),
@@ -66,7 +66,7 @@ Long Island City, NY__
 
 
 
-### SKILLS 
+### _SKILLS_ 
 Javascript
 
 HTML, CSS,SaSS
