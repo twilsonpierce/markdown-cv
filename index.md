@@ -2,7 +2,7 @@
 # Tionna Wilson-Pierce  
 ---
 
-### *EDUCATION*
+### *Education*
 
 __Software Engineering, 
 C4Q(Coalition for Queens),
