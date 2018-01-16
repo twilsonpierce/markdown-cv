@@ -1,5 +1,5 @@
-### <img width="305" alt="screen shot 2018-01-15 at 11 52 18 pm" src="https://user-images.githubusercontent.com/20372701/34972396-468ec8a2-fa4f-11e7-962f-422d684cbd14.png"> 
-# Tionna Wilson-Pierce 
+
+# Tionna Wilson-Pierce                                                                                   
 
 ### 	___PROJECTS___
 
