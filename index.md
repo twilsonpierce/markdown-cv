@@ -75,16 +75,9 @@ Long Island City, NY__
 `MongoDB`,`PostgresSQL`,`GIT`,`Webpack`
 `Babel`,`DOM`,`Mocha`,`Chai`
 `Bootstrap`,`Invision`,`Sketch`
-
-Microsoft  Office, Google Docs/Sheets
-
-Greenhouse.io, Trello, Slack, MailChimp
-
-Team Leadership/Building
-
-Project management
-
-Public Speaking 
+`Microsoft  Office`, `Google Docs/Sheets`
+`Greenhouse.io`, `Trello`, `Slack`, `MailChimp`
+`Team Leadership/Building`, `Project management`,`Public Speaking` 
 
 
 <!-- ### Footer
