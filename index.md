@@ -1,6 +1,5 @@
 
-# Tionna Wilson-Pierce  
----
+### Tionna Wilson-Pierce  
 
 
 ### EDUCATION
@@ -42,6 +41,7 @@ Developed and designed the profile creation feature for users to start their jou
 * Developed a data repository to hold the product information to improve the user experience and help control the number of items that were displayed on the category page. 
 
 * Featured in C4Q’s Annual Gala and Tech Bash
+---
 
 ###  EXPERIENCE
 
