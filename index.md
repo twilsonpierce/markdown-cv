@@ -70,23 +70,11 @@ Long Island City, NY__
 
 ### SKILLS 
 
-`Javascript`
-
-`HTML`,`CSS`,`SaSS`
-
-`React & Redux`
-
-`Express`, `Node.js`, `MongoDB`
-
-PostgresSQL
-
-GIT
-
-Webpack, Babel, DOM
-
-Mocha, Chai
-
-Bootstrap, Invision,Sketch
+`Javascript`,`HTML`,`CSS`,`SaSS`
+`React`,`Redux`,`Express`, `Node.js`
+`MongoDB`,`PostgresSQL`,`GIT`,`Webpack`
+`Babel`,`DOM`,`Mocha`,`Chai`
+`Bootstrap`,`Invision`,`Sketch`
 
 Microsoft  Office, Google Docs/Sheets
 
