@@ -2,20 +2,20 @@
 # Tionna Wilson-Pierce  
 ---
 
-### EDUCATION
+### I. EDUCATION
 
-__Software Engineering, 
+* __Software Engineering, 
 C4Q(Coalition for Queens),
 Long Island City, NY__
 `2016-2017`
 
-__Liberal Arts:Math and Science, 
+* __Liberal Arts:Math and Science, 
 CUNY LaGuardia Community College,
 Long Island City, NY__
 `2013-2015`
 
 
-### SKILLS 
+### II. SKILLS 
 
 `Javascript`,`HTML`,`CSS`,`SaSS`
 `React`,`Redux`,`Express`, `Node.js`
@@ -27,7 +27,7 @@ Long Island City, NY__
 `Team Leadership/Building`, `Project management`,`Public Speaking` 
 
 
-### 	PROJECTS
+### 	III. PROJECTS
 
 ### Wanderly - React,Redux,Express,PostgreSQL
 * Collaborated on a team of four to develop a traveling web app that allows users to share their itineraries and experiences with other travelers. 
@@ -42,7 +42,7 @@ Developed and designed the profile creation feature for users to start their jou
 
 * Featured in C4Q’s Annual Gala and Tech Bash
 
-### 	EXPERIENCE
+### 	IV. EXPERIENCE
 
 ### Full-Stack Web Developer
 ##### `C4Q(Coalition for Queens)|July 2016- June 2017` 
