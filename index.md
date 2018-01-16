@@ -2,6 +2,30 @@
 # Tionna Wilson-Pierce  
 ---
 
+### EDUCATION
+
+* Software Engineering, 
+C4Q(Coalition for Queens),
+Long Island City, NY
+`2016-2017`
+
+* Liberal Arts:Math and Science, 
+CUNY LaGuardia Community College,
+Long Island City, NY
+`2013-2015`
+
+
+### SKILLS 
+
+`Javascript`,`HTML`,`CSS`,`SaSS`
+`React`,`Redux`,`Express`, `Node.js`
+`MongoDB`,`PostgresSQL`,`GIT`,`Webpack`
+`Babel`,`DOM`,`Mocha`,`Chai`
+`Bootstrap`,`Invision`,`Sketch`
+`Microsoft  Office`, `Google Docs/Sheets`
+`Greenhouse.io`, `Trello`, `Slack`, `MailChimp`
+`Team Leadership/Building`, `Project management`,`Public Speaking` 
+
 
 ### 	PROJECTS
 
@@ -53,31 +77,6 @@ Developed and designed the profile creation feature for users to start their jou
 ### Toastmasters International(CC,CL)
 ##### `Eastside Toastmasters Club|October 2014 - Present `
 * Delivered prepared speeches, mentored new club members in our public speaking and leadership program while serving as the VP of Public Relations. 
-
-### EDUCATION
-
-* __Software Engineering, 
-C4Q(Coalition for Queens),
-Long Island City, NY__
-`2016-2017`
-
-* __Liberal Arts:Math and Science, 
-CUNY LaGuardia Community College,
-Long Island City, NY__
-`2013-2015`
-
-
-
-### SKILLS 
-
-`Javascript`,`HTML`,`CSS`,`SaSS`
-`React`,`Redux`,`Express`, `Node.js`
-`MongoDB`,`PostgresSQL`,`GIT`,`Webpack`
-`Babel`,`DOM`,`Mocha`,`Chai`
-`Bootstrap`,`Invision`,`Sketch`
-`Microsoft  Office`, `Google Docs/Sheets`
-`Greenhouse.io`, `Trello`, `Slack`, `MailChimp`
-`Team Leadership/Building`, `Project management`,`Public Speaking` 
 
 
 <!-- ### Footer
