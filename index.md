@@ -56,14 +56,14 @@ Developed and designed the profile creation feature for users to start their jou
 
 ### EDUCATION
 
-__Software Engineering, 
+Software Engineering, 
 C4Q(Coalition for Queens),
 Long Island City, NY__
 `2016-2017`
 
-__Liberal Arts:Math and Science, 
+Liberal Arts:Math and Science, 
 CUNY LaGuardia Community College,
-Long Island City, NY__
+Long Island City, NY
 `2013-2015`
 
 
